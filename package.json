@@ -1,0 +1,17 @@
+{
+  "name": "routes_nodes",
+  "version": "1.0.0",
+  "description": "\"Testing Project\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "start:dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.5",
+    "nodemon": "^2.0.15"
+  }
+}
